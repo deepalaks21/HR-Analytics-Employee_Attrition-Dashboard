@@ -1,58 +1,67 @@
 # HR Analysis Dashboard
-## 📌 About the Project
 
-This project is an HR data analysis project created to understand employee information, income, departments, job roles, and attrition patterns.
+## 📌 Project Overview
 
-I used **Excel, SQL, and Power BI** throughout the project. Excel was used for data preparation and initial analysis, SQL was used to query and analyze the data, and Power BI was used to build an interactive dashboard.
+This is an HR Data Analysis project where I worked with employee data to understand workforce patterns, income, departments, job roles, education, and attrition.
 
-## 🛠️ Tools Used
+I used **Python, SQL, and Power BI** to clean, analyze, and visualize the data and create an interactive HR dashboard.
 
-- Excel
-- SQL
-- Power BI
+## 🛠️ Tools & Technologies
 
-## 📊 About the Dashboard
+- **Python** – Data cleaning and analysis
+- **SQL** – Data querying and analysis
+- **Power BI** – Data visualization and interactive dashboard
 
-The Power BI dashboard provides an interactive view of the HR data using **5 KPI cards, 6 charts, and 6 slicers**.
-
-The slicers allow users to filter the dashboard based on different employee attributes and explore the data interactively.
-
-The dashboard covers areas such as:
+## 🔍 Analysis Covered
 
 - Employee overview
-- Department analysis
+- Department-wise analysis
 - Age group analysis
-- Monthly income
+- Monthly income analysis
 - Gender analysis
-- Education
-- Job roles
-- Attrition
+- Education analysis
+- Job role analysis
+- Attrition analysis
 
-## 🔍 Key Insights
+## 📊 Dashboard
 
-- The dashboard helps identify employee distribution across different departments and job roles.
-- Age group analysis provides an overview of the workforce by age category.
-- Monthly income analysis helps understand salary patterns across employees.
-- Education and job-role analysis provides a better understanding of the employee workforce.
-- Attrition analysis helps identify the distribution of employees who have left and those who are still with the organization.
-- Interactive slicers make it easier to compare HR metrics across different employee categories.
+The Power BI dashboard includes:
+
+- **5 KPI Cards**
+- **6 Charts**
+- **6 Interactive Slicers**
+
+The slicers allow users to filter the dashboard and explore different employee categories interactively.
+
+## 💡 Key Insights
+
+- Analyzed employee distribution across different departments and job roles.
+- Studied workforce distribution across different age groups.
+- Analyzed monthly income patterns.
+- Explored employee education and job-role distribution.
+- Analyzed attrition to understand employees who stayed and left the organization.
+- Used interactive filters to explore HR metrics from different perspectives.
 
 ## 🎯 Project Objective
 
-The objective of this project is to transform raw HR data into an interactive dashboard and derive meaningful insights that can help in understanding workforce patterns and HR-related metrics.
+The main objective of this project is to transform raw HR data into meaningful insights and present them through an interactive dashboard.
+
+This project helped me gain practical experience in **data cleaning, SQL analysis, Python, data visualization, and Power BI dashboard development**.
 
 ## 📁 Project Files
 
-- `HR Analysis.sql`
-- `HR Analysis.pbix`
+- `HR_Analysis.ipynb` – Python data cleaning and analysis
+- `HR_Analysis.sql` – SQL queries and analysis
+- `HR_Analysis.pbix` – Power BI dashboard
 
-## 💡 Skills Demonstrated
+## 📚 Skills Demonstrated
 
+- Python
+- SQL
+- Power BI
 - Data Cleaning
-- Excel Analysis
-- SQL Querying
+- Exploratory Data Analysis
 - Data Visualization
-- Power BI Dashboard Development
-- KPI Creation
-- Interactive Reporting
+- Dashboard Development
+- KPI Analysis
 - Business Insights
